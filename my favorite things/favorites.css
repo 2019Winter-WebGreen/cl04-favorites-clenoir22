@@ -1,0 +1,22 @@
+/*
+* courtney lenoir
+* due date
+* favorites
+*/
+
+/* the universal selector */
+
+* {
+
+}
+/* body attributes here*/
+body { background-color: aquamarine;
+
+}
+
+#dog { float: right; width: 100px; height: 150px;}
+#fries { float: left; width: 200px; height: 250px;}
+#beach { float: right; width: 500px; height: 300px;}
+#bull { float: right;}
+#food { float: left}
+#ocean {float: right;}
